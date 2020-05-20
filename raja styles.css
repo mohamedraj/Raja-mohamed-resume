@@ -85,8 +85,8 @@ body {
 }
 
 .resume .resume_left ul li .icon {
-  width: 35px;
-  height: 35px;
+  width: 25px;
+  height: 25px;
   background: #fff;
   color:#800000 /*color: #0bb5f4;*/
   border-radius: 50%;
@@ -97,10 +97,9 @@ body {
 
 .resume .icon i,
 .resume .resume_right .resume_hobby ul li i {
-  position: static;
-  top:40%;
-  left:40%;
- <!-- top: 50%;left: 50%; -->
+  position: absolute;
+  top: 50%;
+  left: 50%; 
   transform: translate(-40%, -40%);
 }
 
