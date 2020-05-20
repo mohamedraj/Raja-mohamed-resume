@@ -97,7 +97,7 @@ body {
 
 .resume .icon i,
 .resume .resume_right .resume_hobby ul li i {
-  position: relative;
+  position: static;
   top:40%;
   left:40%;
  <!-- top: 50%;left: 50%; -->
