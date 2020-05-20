@@ -98,8 +98,10 @@ body {
 .resume .icon i,
 .resume .resume_right .resume_hobby ul li i {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top:40%;
+  left:40%;
+ <!-- top: 50%;
+     left: 50%; -->
   transform: translate(-50%, -50%);
 }
 
