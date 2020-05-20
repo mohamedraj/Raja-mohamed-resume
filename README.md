@@ -1,2 +1,0 @@
-# Raja-mohamed-resume
-resume
